@@ -1,6 +1,6 @@
 {
   "name": "elliptical-view",
-  "description": "JS Template",
+  "description": "View abstraction for template rendering",
   "version": "1.0.0",
   "author": "S. Francis",
   "license": "MIT",
