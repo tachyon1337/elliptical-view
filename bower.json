@@ -1,7 +1,7 @@
 {
   "name": "elliptical-view",
   "description": "View abstraction for template rendering",
-  "version":"1.0.3",
+  "version": "1.0.4",
   "main": "dist/elliptical.view.js",
   "authors": [
     "S. Francis"
@@ -19,5 +19,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "elliptical-class": "~1.0.2"
+  }
 }
