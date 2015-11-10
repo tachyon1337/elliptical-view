@@ -1,12 +1,12 @@
 {
-  "name": "js-template",
+  "name": "elliptical-view",
   "description": "JS Template",
   "version": "1.0.0",
   "author": "S. Francis",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tachyon1337/js-template.git"
+    "url": "https://github.com/tachyon1337/elliptical-view.git"
   },
   "dependencies":{
     "elliptical-class": "git+https://github.com/tachyon1337/elliptical-class.git"
