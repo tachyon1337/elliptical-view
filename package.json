@@ -1,7 +1,7 @@
 {
   "name": "elliptical-view",
   "description": "View abstraction for template rendering",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "author": "S. Francis",
   "license": "MIT",
   "repository": {

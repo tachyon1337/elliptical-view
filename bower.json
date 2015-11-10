@@ -1,0 +1,23 @@
+{
+  "name": "elliptical-view",
+  "description": "View abstraction for template rendering",
+  "version":"1.0.3",
+  "main": "dist/elliptical.view.js",
+  "authors": [
+    "S. Francis"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "view",
+    "template"
+  ],
+  "homepage": "https://github.com/tachyon1337/elliptical-view",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
