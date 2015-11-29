@@ -5,7 +5,7 @@ var gulp=require('gulp'),
     BUILD_JSON=require('./build.json'),
     BUILD_NAME='elliptical.view.js',
     MIN_NAME='elliptical.view.min.js',
-    REPO_NAME='',
+    REPO_NAME='elliptical view',
     DIST='./dist';
 
 
